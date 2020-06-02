@@ -1,0 +1,69 @@
+[
+  {
+    "code": 1,
+    "name": "The 100",
+    "description": "Science fiction novel",
+    "category": "Books"
+  },
+  {
+    "code": 2,
+    "name": "Los tiempos",
+    "description": "Bolivian newspaper",
+    "category": "NewsPapers"
+  },
+  {
+    "code": 3,
+    "name": "Tú",
+    "description": "It's about teen themes",
+    "category": "Magazines"
+  },
+  {
+    "code": 4,
+    "name": "Time",
+    "description": "It's about controversy",
+    "category": "Magazines"
+  },
+  {
+    "code": 5,
+    "name": "Food Network Magazine",
+    "description": "It's about good food and gastronomy",
+    "category": "Magazines"
+  },
+  {
+    "code": 6,
+    "name": "Little Prices",
+    "description": "Children's book",
+    "category": "Books"
+  },
+  {
+    "code": 7,
+    "name": "One Hundred Years of Solitude",
+    "description": "Contemporary novel",
+    "category": "Books"
+  },
+  {
+    "code": 8,
+    "name": "The Hunger Games",
+    "description": "Science fiction novel",
+    "category": "Books"
+  },
+  {
+    "code": 9,
+    "name": "The Lord of the rings",
+    "description": "Science fiction novel",
+    "category": "Books"
+  },
+  {
+    "code": 10,
+    "name": "Condorito",
+    "description": "Commics",
+    "category": "Others"
+  },
+  {
+    "code": 11,
+    "name": "Opinión",
+    "description": "Bolivian newspaper",
+    "category": "NewsPapers"
+  }
+
+]
