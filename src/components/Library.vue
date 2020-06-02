@@ -1,9 +1,5 @@
 <template>
   <div>
-    <!-- span>Name or Description</span>
-    <br />
-    <br />
-    <input v-model="nameInput" placeholder="Search" /-->
     <br />
     <br />
     <table id="table">

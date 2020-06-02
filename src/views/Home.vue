@@ -5,7 +5,6 @@
     <br />
     <img alt="Vue logo" src="../assets/logo.jpg" />
     <br />
-    <!--img alt="Vue logo" src="../assets/logo.png" /-->
     <br />
     <br />
     <label>Search by Name or Description: </label>
@@ -30,7 +29,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import Library from "@/components/Library.vue";
 
 export default {
@@ -40,9 +38,8 @@ export default {
   },
   data() {
     return {
-      //msg: "Welcome to Your Library",
-      searchNameDesc: "", //name or description
-      selecteCategory: "All", //category
+      searchNameDesc: "",
+      selecteCategory: "All",
       columns: ["code", "name", "description", "category"]
     };
   }
